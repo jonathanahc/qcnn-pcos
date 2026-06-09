@@ -30,9 +30,6 @@ A hybrid quantum-classical architecture based on a Quantum Convolutional Neural 
 
 - Develop a QCNN model for binary classification of ultrasound images.
 - Evaluate the feasibility of Quantum Machine Learning in medical imaging.
-- Compare QCNN performance against traditional CNN models.
-- Analyze the impact of qubit quantity on classification performance.
-
 ---
 
 # 🏗️ Architecture
