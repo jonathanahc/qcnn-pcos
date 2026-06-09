@@ -257,7 +257,6 @@ Sigmoid Output
 
 ```text
 .
-├── data/
 ├── notebooks/
 │   └── QCNN_PCOS.ipynb
 ├── README.md
