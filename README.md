@@ -213,24 +213,24 @@ Sigmoid Output
 
 | Metric | Score |
 |----------|---------:|
-| Accuracy | 87.33% |
+| Accuracy | 87.00% |
 | AUC-ROC | 0.9318 |
 
 ## PCOS
 
 | Metric | Value |
 |----------|---------:|
-| Precision | 90.58% |
+| Precision | 89.93% |
 | Recall | 83.33% |
-| F1-Score | 86.81% |
+| F1-Score | 86.511% |
 
 ## Non-PCOS
 
 | Metric | Value |
 |----------|---------:|
-| Precision | 84.57% |
-| Recall | 91.33% |
-| F1-Score | 87.82% |
+| Precision | 84.47% |
+| Recall | 90.67% |
+| F1-Score | 87.46% |
 
 ---
 
