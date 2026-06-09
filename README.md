@@ -260,14 +260,8 @@ Sigmoid Output
 ├── data/
 ├── notebooks/
 │   └── QCNN_PCOS.ipynb
-├── src/
-│   ├── preprocessing.py
-│   ├── encoding.py
-│   ├── qcnn.py
-│   └── evaluation.py
-├── results/
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
